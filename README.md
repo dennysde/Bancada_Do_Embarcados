@@ -9,3 +9,5 @@ Conversamos sobre:
 - Conversão de texto em audio com o TTSMaker
 - Plataforma do STM32CubeIDE
 - Análise do Código
+
+![image](https://github.com/dennysde/Bancada_Do_Embarcados/assets/57273197/6cfe357e-392e-45b9-81b5-c517d78fe890)
